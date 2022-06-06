@@ -162,12 +162,13 @@ ul#resources {
 }
 
 .map-location {
-	width: 110px;
+	width: 100px;
+	font-size: .8em;
 }
 
 .map-location img{
-	width: 80px;
-	height: 80px;
+	width: 32px;
+	height: 32px;
 	border: 2px solid $primary;
 	border-radius: 50%;
 	// background-color: rgba(220,220,220,.2);
